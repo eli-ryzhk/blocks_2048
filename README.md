@@ -17,8 +17,8 @@ The goal is to keep merging blocks, create larger values, and achieve the highes
 ## Screenshots
 
 <p align="center">
-  <img src="screen1.png" width="300"/>
-  <img src="Rscreen2.png" width="300"/>
+  <img src="screen1.jpg" width="300"/>
+  <img src="screen2.jpg" width="300"/>
 </p>
 
 ---
