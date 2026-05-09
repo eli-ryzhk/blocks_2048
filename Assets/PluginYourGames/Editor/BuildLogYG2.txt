@@ -1,0 +1,3 @@
+Build path: C:/Users/user/OneDrive/Документы/Blocks2048/Blocks2048/BlockBuild
+Build number: 7
+PluginYG version: 2.0042
