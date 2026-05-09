@@ -10,15 +10,15 @@ The goal is to keep merging blocks, create larger values, and achieve the highes
 
 ## Gameplay Preview
 
-![Gameplay](README_Images/gameplay.gif)
+![Gameplay](gameplay.gif)
 
 ---
 
 ## Screenshots
 
 <p align="center">
-  <img src="README_Images/screen1.png" width="300"/>
-  <img src="README_Images/screen2.png" width="300"/>
+  <img src="screen1.png" width="300"/>
+  <img src="Rscreen2.png" width="300"/>
 </p>
 
 ---
